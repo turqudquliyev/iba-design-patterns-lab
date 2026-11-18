@@ -1,5 +1,3 @@
-# Design pattern tapşırıqları
-
 Tapşırıqları dərsdə keçdiyimiz design pattern-lərdən istifadə edərək həll edin.
 
 ## Mündəricat
